@@ -1,0 +1,9 @@
+button:
+  confirm: 确认登录
+  cancel: 取消登录
+intro:
+  desc: 请确认是否为本人操作
+result:
+  success: 登录成功
+  fail: 取消成功
+not-found: 未找到页面

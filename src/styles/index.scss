@@ -1,0 +1,21 @@
+* {
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+}
+
+// img {
+//   user-select: none;
+//   pointer-events: none;
+// }
+
+
+
+.icon-btn {
+  @apply inline-block cursor-pointer select-none opacity-75 transition duration-200 ease-in-out hover:opacity-100 text-[#666] ;
+}
+.dark{
+  .icon-btn{
+  @apply inline-block cursor-pointer select-none opacity-75 transition duration-200 ease-in-out hover:opacity-100 text-white ;
+  }
+}
+

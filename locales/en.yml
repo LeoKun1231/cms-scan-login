@@ -1,0 +1,9 @@
+button:
+  cancel: Cancel login
+  confirm: Confirm login
+intro:
+  desc: Please confirm whether it is done by you
+not-found: Page not found
+result:
+  fail: Cancel Successful
+  success: Login Successful
