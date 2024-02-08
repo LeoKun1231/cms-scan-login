@@ -4,7 +4,7 @@ import { closeToast, showLoadingToast } from 'vant';
 
 const { t } = useI18n()
 
-const baseURL = "https://hqk10.xyz:3000/api/v1/qrcode"
+const baseURL = "https://cms.server.hqk10.top/api/v1/qrcode"
 
 const id = useRoute().query?.id
 
